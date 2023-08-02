@@ -1,14 +1,16 @@
-import { useState } from 'react'
+
+import { TaskHead } from './TaskHead';
+import './styles/index.css';
 
 
-function App() {
-  const [count, setCount] = useState(0)
 
+
+const App = () => {
+ 
+  
   return (
-    <>
-
-    </>
-  )
+    <TaskHead />
+  );
 }
 
 export default App
