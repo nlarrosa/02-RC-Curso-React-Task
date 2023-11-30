@@ -1,7 +1,7 @@
 body, html {
     margin: 0 auto; 
-    padding: 0 100px;
-    background-color: #000;
+    padding: 0px;
+    background-color: #ffffff;
 }
 
 .banner {
@@ -87,4 +87,8 @@ body, html {
   }
   .bd-mode-toggle {
     z-index: 1500;
+  }
+
+  .card {
+    box-shadow: 0 3px 8px rgba(0,0,0,0.1), 0 3px 8px rgba(0,0,0,0.1);
   }

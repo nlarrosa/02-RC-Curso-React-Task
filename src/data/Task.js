@@ -1,4 +1,5 @@
-[
+
+export const dataCard = [
     {
         "id": 1,
         "taskTitle": "tarea Default 1"
